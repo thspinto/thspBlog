@@ -9,3 +9,11 @@ To run it locally:
 ```bash
 hugo server -w --noHTTPCache --disableFastRender
 ```
+
+## Deploying to gh-pages
+
+Using [Hugo's script](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
+```bash
+./publish_to_gh_pages.sh
+```
