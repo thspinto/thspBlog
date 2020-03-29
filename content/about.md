@@ -6,15 +6,19 @@ author: Thiago Pinto
 draft: false
 ---
 
-Always thinking about who I am. So as a good practice I'll leave a TODO to come back to this after the site is finished.
+I'm easily intrigued to learn stuff. I started off as Java developer and migrated to SRE. Go has a special place in my heart for being strongly type, easy to compile and deploy all architectures I've ever used. Currently I help think, implement and manage the use of cloud infrastructure and pipelines in [QuintoAndar](https://quintoandar.com.br).
 
-## Interests
+## Professional Interests
 
 * Automation and Automation Tools
 * CI/CD
 * Kubernetes
-* Golang
+* Go
 * Security
 * Team dynamics and leadership
 
-## Personal Projects
+## Personal Interests
+
+* History and Anthropology
+* Economy
+* Science Fiction

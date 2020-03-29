@@ -2,7 +2,7 @@
 baseurl = "https://thsp.dev/"
 languageCode = "en"
 
-title = "Some Notes"
+title = "My Tech Notes"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -52,7 +52,7 @@ paginate = 10
     linkedin = "thspinto"
     twitter = "thspinto"
     # facebook = "<username>"
-    stackoverflow = "<username>"
+    # stackoverflow = "<username>"
     # telegram = "<username>"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     # email = "your-email@example.com"

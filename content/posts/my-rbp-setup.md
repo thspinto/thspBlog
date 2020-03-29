@@ -1,9 +1,9 @@
 ---
 title: "My Raspberry Pi Setup"
 date: 2020-03-08T20:29:49-03:00
+lastmod: 2020-03-29T12:09:00-03:00
 draft: false
 screenshot: /rbp.jpg
-featured: false
 tags: [ansible, rbp, raspberry, auth0, traefik]
 ---
 
@@ -11,7 +11,7 @@ tags: [ansible, rbp, raspberry, auth0, traefik]
 
 # Tired of configuring my RBP
 
-I've had a raspberry pi for a while and most of the time it rests off in a drawer. From time to time I dust off the SD card to setup the box with dynamic DNS and play with it as my personal server. It always went back to the drawer when my vacations fished and I broke the SO with some crazy experiment.
+I've had a raspberry pi for a while and most of the time it rests off in a drawer. From time to time I dust off the SD card to setup the box with dynamic DNS and play with it as my personal server. It always went back to the drawer when my vacation fished and I broke the SO with some crazy experiment.
 
 As an SRE I spend most of my time thinking what flows are more burdensome to the team and how can we automate the process to gain more time to do cool more cool stuff. But with the RBP it was different, I'd never versioned the scripts I executed and never though about creating a proper automation for the box.
 
@@ -21,7 +21,7 @@ This time I started differently to avoid giving up on the Pi again. Every config
 
 ## Provisioning Raspbian
 
-Start off with the (Rasbian Buster Lite image)[https://www.raspberrypi.org/downloads/raspbian/] and burn it on the SD card. Just assure you're pointing to the right disk before running the commands below.
+Start off with the [Rasbian Buster Lite image](https://www.raspberrypi.org/downloads/raspbian) and burn it on the SD card. Just assure you're pointing to the right disk before running the commands below.
 
 
 ```
@@ -31,7 +31,7 @@ touch /Volumes/boot/ssh # to enable ssh
 
 ## Ansible automation
 
-Ansible [Ansible](https://docs.ansible.com/ansible/latest/index.html) is a grate tool for automating systems configurations. This setup starts with the default user and password.
+Ansible [Ansible](https://docs.ansible.com/ansible/latest/index.html) is a great tool for automating systems configurations. This setup starts with the default user and password.
 
 ### Initialize
 
@@ -41,7 +41,7 @@ The `initialize` playbook adds my user and public keys to the RBP and disables p
 ANSIBLE_HOST_KEY_CHECKING=False ansible-playbook initialize.yaml -i inventories/thspinto
 ```
 
-Notice that `inventories/thspinto/all.yaml` is unreadable. That's because its encrypted with [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html#file-level-encryption). I don't recommend versioning secrets in public repositories most use cases, even if they are encrypted. In my case I versioned it because I'll certainly lose the file other wise. Also, in my case, the only sensitive information in is a token to alter my personal DNS registry. Since there is virtually no traffic in my domain, it's no big deal.
+Notice that `inventories/thspinto/all.yaml` is unreadable. That's because its encrypted with [Ansible Vault](https://docs.ansible.com/ansible/latest/user_guide/vault.html#file-level-encryption). I don't recommend versioning secrets in public repositories for most use cases, even if they are encrypted. In my case I versioned it because I'll certainly lose the file otherwise. Also, in my case, the only sensitive information in is a token to alter my personal DNS registry. Since there is virtually no traffic in my domain, it's no big deal.
 
 ### Basic setup
 
@@ -69,4 +69,4 @@ Currently I run:
 
 # My Pi
 
-Everything runs fine on model B with one 700MHz core and 512MB of ram. Checkout the [raspberry-config repo](https://github.com/thspinto/raspberry-config) for more details and updates.
+Everything runs fine on model B with one 700MHz core and 512MB of ram. Checkout the [raspberry-config repo](https://github.com/thspinto/raspberry-config) for more details and updates. Can't do much with this hardware, that's why as next steps I'm considering buying more RBPs and setting up a clustered environment with [k3s](https://k3s.io/).
