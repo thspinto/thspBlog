@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Tech Notes</title>
+    <link>https://thsp.dev/posts/</link>
+    <description>Recent content in Posts on My Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2020 20:29:49 -0300</lastBuildDate>
+    
+	<atom:link href="https://thsp.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Raspberry Pi Setup</title>
+      <link>https://thsp.dev/posts/my-rbp-setup/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/posts/my-rbp-setup/</guid>
+      <description>Tired of configuring my RBP I&amp;rsquo;ve had a raspberry pi for a while and most of the time it rests off in a drawer. From time to time I dust off the SD card to setup the box with dynamic DNS and play with it as my personal server.</description>
+    </item>
+    
+  </channel>
+</rss>

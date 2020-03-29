@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Tech Notes</title>
+    <link>https://thsp.dev/tags/</link>
+    <description>Recent content in Tags on My Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2020 20:29:49 -0300</lastBuildDate>
+    
+	<atom:link href="https://thsp.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ansible</title>
+      <link>https://thsp.dev/tags/ansible/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auth0</title>
+      <link>https://thsp.dev/tags/auth0/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/auth0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry</title>
+      <link>https://thsp.dev/tags/raspberry/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbp</title>
+      <link>https://thsp.dev/tags/rbp/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/rbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traefik</title>
+      <link>https://thsp.dev/tags/traefik/</link>
+      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/traefik/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
