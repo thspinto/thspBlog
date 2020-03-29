@@ -17,7 +17,7 @@ paginate = 10
 ## Site Settings
 [params]
     author = "Thiago Pinto"
-    title = "SRE"
+    title = "Thiago's Tech Notes"
     description = "Don't forget your towel"
     authorimage = "avatar.png"
     dateformat = "2006-01-02"
