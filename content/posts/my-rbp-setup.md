@@ -4,7 +4,7 @@ date: 2020-03-08T20:29:49-03:00
 lastmod: 2020-03-29T12:09:00-03:00
 draft: false
 screenshot: /rbp.jpg
-tags: [ansible, rbp, raspberry, auth0, traefik]
+tags: [ansible, rbp, rbi, raspberry, auth0, traefik]
 ---
 
 ![Raspberry Pi Logo in front of blue circuit board](/rbp.jpg)
