@@ -3,18 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thsp.dev/about/</loc>
-    <lastmod>2020-03-08T21:23:26-03:00</lastmod>
+    <loc>https://thsp.dev/tags/ansible/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/k3s/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://thsp.dev/</loc>
-    <lastmod>2020-03-08T21:23:26-03:00</lastmod>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thsp.dev/tags/ansible/</loc>
-    <lastmod>2020-03-29T12:09:00-03:00</lastmod>
+    <loc>https://thsp.dev/posts/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/raspberry/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/rbi/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/rbp/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/posts/rbp-k3s-bootstrap/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/</loc>
+    <lastmod>2020-11-20T08:40:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/about/</loc>
+    <lastmod>2020-03-08T21:23:26-03:00</lastmod>
   </url>
   
   <url>
@@ -24,26 +59,6 @@
   
   <url>
     <loc>https://thsp.dev/posts/my-rbp-setup/</loc>
-    <lastmod>2020-03-29T12:09:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thsp.dev/posts/</loc>
-    <lastmod>2020-03-29T12:09:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thsp.dev/tags/raspberry/</loc>
-    <lastmod>2020-03-29T12:09:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thsp.dev/tags/rbp/</loc>
-    <lastmod>2020-03-29T12:09:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thsp.dev/tags/</loc>
     <lastmod>2020-03-29T12:09:00-03:00</lastmod>
   </url>
   

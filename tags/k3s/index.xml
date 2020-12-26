@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k3s on My Tech Notes</title>
+    <link>https://thsp.dev/tags/k3s/</link>
+    <description>Recent content in k3s on My Tech Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Nov 2020 08:40:49 -0300</lastBuildDate><atom:link href="https://thsp.dev/tags/k3s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RPi K3s</title>
+      <link>https://thsp.dev/posts/rbp-k3s-bootstrap/</link>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/posts/rbp-k3s-bootstrap/</guid>
+      <description>Back with the RPis Last time I was playing with the Raspberry Pi I used ansible to configure docker and some services on it. I still wasn&amp;rsquo;t happy with the solution: my RPi 2 was really slow to run the Ansible configuration and the setup couldn&amp;rsquo;t really recover from any errors without manual intervention.</description>
+    </item>
+    
+  </channel>
+</rss>

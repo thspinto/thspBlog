@@ -6,17 +6,49 @@
     <description>Recent content in Tags on My Tech Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2020 20:29:49 -0300</lastBuildDate>
-    
-	<atom:link href="https://thsp.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Nov 2020 08:40:49 -0300</lastBuildDate><atom:link href="https://thsp.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ansible</title>
       <link>https://thsp.dev/tags/ansible/</link>
-      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
       
       <guid>https://thsp.dev/tags/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k3s</title>
+      <link>https://thsp.dev/tags/k3s/</link>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/k3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberry</title>
+      <link>https://thsp.dev/tags/raspberry/</link>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/raspberry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbi</title>
+      <link>https://thsp.dev/tags/rbi/</link>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/rbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbp</title>
+      <link>https://thsp.dev/tags/rbp/</link>
+      <pubDate>Fri, 20 Nov 2020 08:40:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/rbp/</guid>
       <description></description>
     </item>
     
@@ -26,24 +58,6 @@
       <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
       
       <guid>https://thsp.dev/tags/auth0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>raspberry</title>
-      <link>https://thsp.dev/tags/raspberry/</link>
-      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
-      
-      <guid>https://thsp.dev/tags/raspberry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rbp</title>
-      <link>https://thsp.dev/tags/rbp/</link>
-      <pubDate>Sun, 08 Mar 2020 20:29:49 -0300</pubDate>
-      
-      <guid>https://thsp.dev/tags/rbp/</guid>
       <description></description>
     </item>
     
