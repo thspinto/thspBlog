@@ -68,6 +68,36 @@
   </url>
   
   <url>
+    <loc>https://thsp.dev/tags/arduino/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/esp8266/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/posts/esp-adventures/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/grafana/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/mqtt/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thsp.dev/tags/prometheus/</loc>
+    <lastmod>2020-01-02T23:00:49-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thsp.dev/categories/</loc>
   </url>
   

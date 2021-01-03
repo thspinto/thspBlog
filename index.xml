@@ -34,5 +34,14 @@
       <description>Tired of configuring my RBP I&amp;rsquo;ve had a raspberry pi for a while and most of the time it rests off in a drawer. From time to time I dust off the SD card to setup the box with dynamic DNS and play with it as my personal server.</description>
     </item>
     
+    <item>
+      <title>Esp8266 Adventures</title>
+      <link>https://thsp.dev/posts/esp-adventures/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/posts/esp-adventures/</guid>
+      <description>ESP8266 Adventures How could technology help me in future impacted by global warming? This is a question that has been following me the past decade, specially where can my current area of study help me in this future.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -70,5 +70,50 @@
       <description></description>
     </item>
     
+    <item>
+      <title>arduino</title>
+      <link>https://thsp.dev/tags/arduino/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/arduino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esp8266</title>
+      <link>https://thsp.dev/tags/esp8266/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/esp8266/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grafana</title>
+      <link>https://thsp.dev/tags/grafana/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mqtt</title>
+      <link>https://thsp.dev/tags/mqtt/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/mqtt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prometheus</title>
+      <link>https://thsp.dev/tags/prometheus/</link>
+      <pubDate>Thu, 02 Jan 2020 23:00:49 -0300</pubDate>
+      
+      <guid>https://thsp.dev/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
