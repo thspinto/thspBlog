@@ -10,11 +10,11 @@ I'm easily intrigued to learn stuff. I started off as Java developer and migrate
 
 ## Professional Interests
 
-* Automation and Automation Tools
 * CI/CD
 * Kubernetes
 * Go
-* Security
+* Application and Cloud Security
+* Authentication And Authorization
 * Team dynamics and leadership
 
 ## Personal Interests
